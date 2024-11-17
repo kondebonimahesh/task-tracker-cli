@@ -13,3 +13,7 @@ Run the following commands from the terminal:
 ### Add a New Task
 ```bash
 node task-cli.js add "Buy groceries"
+
+### Update the Task
+```bash
+node task-cli.js update 1 "Buy groceries and cook dinner"
